@@ -1,5 +1,5 @@
 {
-  "name": "imad-base",
+  "name": "imad-app",
   "version": "0.1.0",
   "description": "IMAD course app",
   "main": "server.js",
